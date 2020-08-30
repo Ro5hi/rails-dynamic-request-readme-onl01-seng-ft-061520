@@ -1,4 +1,4 @@
-# spec/features/post_spec.rb
+ spec/features/post_spec.rb
 
 require 'rails_helper'
 
